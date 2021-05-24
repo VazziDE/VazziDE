@@ -3,7 +3,7 @@
 [![VazziDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=VazziDE)](https://github.com/VazziDE/github-readme-stats)
 
 📫 How to reach me: Vazzi#3839 (Discord)
-🔭 I’m currently working on Kogle Software
+🔭 I’m currently working on nothing
 
 <!--
 **VazziDE/VazziDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
