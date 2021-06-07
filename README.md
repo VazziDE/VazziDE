@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hey there 👋
 
 [![VazziDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=VazziDE&show_icons=true&theme=react)](https://github.com/VazziDE/)
 
-📫 How to reach me: Vazzi#3839 (Discord)
-🌱 I’m currently learning Java Language
+📫 How to reach me: Vazzi#3839 (Discord) <br>
+🌱 I’m currently learning Java Language <br>
+
+⚡ Skills:
+  - PHP (PocketMine-MP Plugin Development)
+  -  HTML & CSS (Website)
+  -  Java (Nukkit and WaterdogPE Plugin Development) 
 
 <!--
 **VazziDE/VazziDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
