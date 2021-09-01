@@ -7,7 +7,7 @@
 
 ⚡ Skills:
   - PHP (PocketMine-MP Plugin Development)
-  -  HTML & CSS (Website)
+  -  HTML, CSS & JavaScript (Webdevelopment)
   -  Java (Nukkit and WaterdogPE Plugin Development) 
 
 <!--
