@@ -2,6 +2,8 @@
 
 [![VazziDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=VazziDE&show_icons=true&theme=react)](https://github.com/VazziDE/)
 
+German, 16, Student
+
 📫 How to reach me: Chrsy#1613 (Discord) <br>
 
 ⚡ Skills:
