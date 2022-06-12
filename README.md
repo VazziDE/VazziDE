@@ -2,7 +2,7 @@
 
 [![VazziDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=VazziDE&show_icons=true&theme=react)](https://github.com/VazziDE/)
 
-📫 How to reach me: Vazzi#3839 (Discord) <br>
+📫 How to reach me: Chrsy#1613 (Discord) <br>
 🌱 I’m currently learning Java Language <br>
 
 ⚡ Skills:
