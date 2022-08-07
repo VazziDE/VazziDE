@@ -7,7 +7,6 @@ ME: Vazzi, 16, Student, Germany
 📫 How to reach me: Chrsy#1613 (Discord) <br>
 
 ⚡ Skills:
-  -  PHP (PocketMine-MP Plugin Development)
-  -  HTML, CSS & JavaScript (Webdevelopment)
-  -  Java (Nukkit and WaterdogPE Plugin Development) 
-  -  Python (Scripts, Discord Bots)
+  -  PHP => Pocketmine-MP
+  -  Java => Nukkit, WaterdogPE, Scripts 
+  -  Python => Scripts, Discord Bots
