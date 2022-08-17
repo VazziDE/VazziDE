@@ -8,5 +8,5 @@ ME: Vazzi, 16, Student, Germany
 
 ⚡ Skills:
   -  PHP => Pocketmine-MP
-  -  Java => Nukkit, WaterdogPE, Scripts 
+  -  Java => Nukkit, WaterdogPE
   -  Python => Scripts, Discord Bots
