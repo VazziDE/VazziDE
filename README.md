@@ -5,6 +5,7 @@
 ```
 if(User.name == "VazziDE"){
     User.languages.add(new Language("Java"));
+    User.languages.add(new Language("PHP"));
     User.languages.add(new Language("Python"));
     User.save();
 }
